@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+
+# Local/model assets must never be committed
+*.blend
+*.blend1
+*.pmx
+*.pmd
+*.vmd
+*.fbx
+*.glb
+*.gltf
+renders/
+models/
+assets/
+skill_tests/
+preview*.png
